@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stats96
-- 👀 I’m interested in R,Python .
+- 👀 I’m interested in R, Python .
 - 🌱 I’m currently learning Machine Learning and Survival Analysis .
 - 💞️ I’m looking to collaborate on GWAS.
 - 📫 How to reach me: Stats_96@outlook.com
