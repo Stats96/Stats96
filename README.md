@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Stats96
-- 👀 I’m interested in R, Python .
-- 🌱 I’m currently learning Machine Learning and Survival Analysis .
-- 💞️ I’m looking to collaborate on GWAS.
+-👋 Hi, I'm @Stats96
+- 👀 I'm interested in R, Python, and Bioinformatics
+- 🌱 I'm currently learning Machine Learning, Neural Networks, and Survival Analysis
+- 🔬 My research focus: Gene Expression analysis in Cancer
+- 💞️ I'm looking to collaborate on Cancer Bioinformatics & Computational Biology
 - 📫 How to reach me: Stats_96@outlook.com
 
 <!---
